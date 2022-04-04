@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{9BBD27D8-6DF5-4497-9B34-929FD629D44D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{F0B73667-FBAD-4469-8ADE-14C05F17AA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{F0B73667-FBAD-4469-8ADE-14C05F17AA08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementStrStr", "ImplementStrStr\ImplementStrStr.csproj", "{11175115-6F41-4629-B295-95D3EAEF7F48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11175115-6F41-4629-B295-95D3EAEF7F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11175115-6F41-4629-B295-95D3EAEF7F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11175115-6F41-4629-B295-95D3EAEF7F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11175115-6F41-4629-B295-95D3EAEF7F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
