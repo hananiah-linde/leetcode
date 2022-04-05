@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementStrStr", "Implemen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
