@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{5EB1CB21-A14C-428A-8DB8-299BADE46286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB1CB21-A14C-428A-8DB8-299BADE46286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1CB21-A14C-428A-8DB8-299BADE46286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1CB21-A14C-428A-8DB8-299BADE46286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1CB21-A14C-428A-8DB8-299BADE46286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
