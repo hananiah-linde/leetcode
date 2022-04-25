@@ -3,33 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{6B81D772-3D7C-410A-9B06-3943D65D59B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001-TwoSum", "TwoSum\0001-TwoSum.csproj", "{6B81D772-3D7C-410A-9B06-3943D65D59B0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{500888C9-D79A-46E4-A493-21C872813AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009-PalindromeNumber", "PalindromeNumber\0009-PalindromeNumber.csproj", "{500888C9-D79A-46E4-A493-21C872813AF4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{C90A3A56-A8D2-4417-8A41-E428616ADE31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013-RomanToInteger", "RomanToInteger\0013-RomanToInteger.csproj", "{C90A3A56-A8D2-4417-8A41-E428616ADE31}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{A015FDBE-633A-49F3-AD56-F7FE497DDA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0014-LongestCommonPrefix", "LongestCommonPrefix\0014-LongestCommonPrefix.csproj", "{A015FDBE-633A-49F3-AD56-F7FE497DDA37}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{9BBD27D8-6DF5-4497-9B34-929FD629D44D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0020-ValidParentheses", "ValidParentheses\0020-ValidParentheses.csproj", "{9BBD27D8-6DF5-4497-9B34-929FD629D44D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{F0B73667-FBAD-4469-8ADE-14C05F17AA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0026-RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\0026-RemoveDuplicatesFromSortedArray.csproj", "{F0B73667-FBAD-4469-8ADE-14C05F17AA08}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0027-RemoveElement", "RemoveElement\0027-RemoveElement.csproj", "{2E21DE18-D8C0-4F0A-8B5B-98BA9431B011}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementStrStr", "ImplementStrStr\ImplementStrStr.csproj", "{11175115-6F41-4629-B295-95D3EAEF7F48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0028-ImplementStrStr", "ImplementStrStr\0028-ImplementStrStr.csproj", "{11175115-6F41-4629-B295-95D3EAEF7F48}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0035-SearchInsertPosition", "SearchInsertPosition\0035-SearchInsertPosition.csproj", "{9BF1CD91-5512-493E-A9CA-1BBDAECA50B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0053-MaximumSubarray", "MaximumSubarray\0053-MaximumSubarray.csproj", "{13C8ECCC-7F37-4B91-82C4-6AD56AE52884}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0058-LengthOfLastWord", "LengthOfLastWord\0058-LengthOfLastWord.csproj", "{5477F27A-3BC8-4D91-9D26-258D8CFD6F7F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{5EB1CB21-A14C-428A-8DB8-299BADE46286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0066-PlusOne", "PlusOne\0066-PlusOne.csproj", "{5EB1CB21-A14C-428A-8DB8-299BADE46286}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{8A16DDE6-610A-4384-A5DA-4A00AFD5E720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067-AddBinary", "AddBinary\0067-AddBinary.csproj", "{8A16DDE6-610A-4384-A5DA-4A00AFD5E720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrtx", "Sqrtx\Sqrtx.csproj", "{77CD78AD-7BDB-4F55-B7F1-953C05CC2052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0069-Sqrtx", "Sqrtx\0069-Sqrtx.csproj", "{77CD78AD-7BDB-4F55-B7F1-953C05CC2052}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0070-ClimbingStairs", "ClimbingStairs\0070-ClimbingStairs.csproj", "{913EC5A8-BA6A-4334-A6BC-8BBFF0BDA2F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0083-RemoveDuplicatesFromSortedList", "0083RemoveDuplicatesFromSortedList\0083-RemoveDuplicatesFromSortedList.csproj", "{6BA3164A-48BB-4656-9B9A-E905418BA32E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0021-MergeTwoSortedLists", "0021-MergeTwoSortedLists\0021-MergeTwoSortedLists.csproj", "{0AB631FC-F25B-4FD0-A0C2-8ACA7031B16D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0088-MergeSortedArray", "0088-MergeSortedArray\0088-MergeSortedArray.csproj", "{7C84B0D5-34F9-44B0-9440-F6A332603EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0094-BinaryTreeInorderTraversal", "0094-BinaryTreeInorderTraversal\0094-BinaryTreeInorderTraversal.csproj", "{598A74E0-9A62-48E8-AC50-23B9BC5B30E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +103,26 @@ Global
 		{77CD78AD-7BDB-4F55-B7F1-953C05CC2052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77CD78AD-7BDB-4F55-B7F1-953C05CC2052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77CD78AD-7BDB-4F55-B7F1-953C05CC2052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913EC5A8-BA6A-4334-A6BC-8BBFF0BDA2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913EC5A8-BA6A-4334-A6BC-8BBFF0BDA2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913EC5A8-BA6A-4334-A6BC-8BBFF0BDA2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913EC5A8-BA6A-4334-A6BC-8BBFF0BDA2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA3164A-48BB-4656-9B9A-E905418BA32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA3164A-48BB-4656-9B9A-E905418BA32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA3164A-48BB-4656-9B9A-E905418BA32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA3164A-48BB-4656-9B9A-E905418BA32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB631FC-F25B-4FD0-A0C2-8ACA7031B16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB631FC-F25B-4FD0-A0C2-8ACA7031B16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB631FC-F25B-4FD0-A0C2-8ACA7031B16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB631FC-F25B-4FD0-A0C2-8ACA7031B16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C84B0D5-34F9-44B0-9440-F6A332603EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C84B0D5-34F9-44B0-9440-F6A332603EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C84B0D5-34F9-44B0-9440-F6A332603EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C84B0D5-34F9-44B0-9440-F6A332603EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598A74E0-9A62-48E8-AC50-23B9BC5B30E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598A74E0-9A62-48E8-AC50-23B9BC5B30E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598A74E0-9A62-48E8-AC50-23B9BC5B30E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598A74E0-9A62-48E8-AC50-23B9BC5B30E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
